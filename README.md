@@ -4,7 +4,7 @@ Purpose of the analysis: Look into the food preferences of a sample of countries
  
 How much pollution has the production of this meat caused according to the agricultural methane emissions levels recorded during the recent years?
 
-Can we oberve a correlation between the meat consumption levels and the polution levels?
+Can we observe a correlation between the meat consumption levels and the pollution  levels?
 
 Datasets used in the analysis:
 
